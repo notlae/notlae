@@ -28,7 +28,6 @@ I am an Boy which is curious about every thing, <br>so I welcome here i like cod
 
 # If you want to contact me:
 
-### my protofoilo
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/facebook.com/notlae.356472/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/biren_shrestha17) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Not_lae17) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:notlae17@gmail.com ) 
 
 
