@@ -26,10 +26,15 @@ I am an Boy which is curious about every thing, <br>so I welcome here i like cod
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=notlae&limit=5&theme=dark&combine_all_yearly_contributions=true)
+# If you want to contact me:
 
----
-[![](https://komarev.com/ghpvc/?username=notlae&icon=0&color=0)](https://visitcount.itsvg.in)
+### my protofoilo
+![](https://notlae.is-a.dev)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### my facebook
+![](facebook.com/notlae.356472/)
+
+### my instagram 
+![](instagram.com/biren_shrestha17)
+
+
